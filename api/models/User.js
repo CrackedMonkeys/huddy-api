@@ -15,10 +15,10 @@ module.exports = {
       type: 'string'
     },
     profile: {
-      type: 'array'
+      type: 'json'
     },
     config: {
-      type: 'array'
+      type: 'json'
     },
   }
 };
